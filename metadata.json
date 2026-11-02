@@ -1,0 +1,6 @@
+{
+  "name": "TG Gaming Owner - Color Trading Platform",
+  "description": "TG Gaming Owner color trading prediction platform with Win Go game, deposit QR code, UPI integration, withdrawal management, and owner admin panel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
